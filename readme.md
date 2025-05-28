@@ -13,6 +13,7 @@ The example below utilizes the Gemini LLM API.
 ![Screen Shoot Chatbot](./ss/chatbot.JPG)
 
 Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4)
+
 Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
 -----
@@ -30,7 +31,7 @@ Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
 The first step is to create an API Key on aistudio.google.com to access the Gemini AI LLM using its API.
 
-![ss](./ss/1.png)
+![Code Program](./ss/1.png)
 
 ## 2\. Python & Dependencies Installation
 
@@ -47,7 +48,7 @@ pip install Flask Flask-Cors google-generativeai python-dotenv
 
 Below is the Python script for the backend, which processes user queries by integrating the Gemini LLM API and a local Database.
 
-![ss](./app.py)
+![Code Program](./app.py)
 
 **How to Run:**
 
