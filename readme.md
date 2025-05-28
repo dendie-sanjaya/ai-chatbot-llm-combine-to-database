@@ -10,7 +10,7 @@ For instance, to inquire about the online status of a device, the data flow will
 
 The example below utilizes the Gemini LLM API.
 
-![Screen Shoot Chatbot](./ss/chatbot.JPG)
+![Screen Shoot Chatbot](./ss/ss-chatbot.jpg)
 
 Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4)
 
@@ -65,4 +65,4 @@ Below is the script for the web-based frontend program that processes questions 
 
 ![ss](./frontend.html)
 
-![ss](./ss/1.png)
+![ss](./ss/ss-chatbot.jpg)
