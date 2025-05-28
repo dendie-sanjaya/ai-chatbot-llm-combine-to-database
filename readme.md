@@ -10,10 +10,10 @@ For instance, to inquire about the online status of a device, the data flow will
 
 The example below utilizes the Gemini LLM API.
 
-![ss](./ss/ssJPGatbot.JPG)
+![Screen Shoot Chatbot](./ss/chatbot.JPG)
 
-Video Demo -> ![ss](./ss/demo.mp4)
-Video Demo -> ![ss](./ss/demo-2.mp4)
+Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4)
+Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
 -----
 
