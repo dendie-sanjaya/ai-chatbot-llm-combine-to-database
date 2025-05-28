@@ -12,7 +12,7 @@ The example below utilizes the Gemini LLM API.
 
 ![Screen Shoot Chatbot](./ss/ss-chatbot.jpg)
 
-Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4) & Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
+Video Demo  1 -> ![Video Demo - Chatbot](./ss/demo.mp4) & Video Demo  2 -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
 -----
 
