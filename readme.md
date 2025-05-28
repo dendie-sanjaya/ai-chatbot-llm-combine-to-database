@@ -18,10 +18,10 @@ Video Demo  1 -> ![Video Demo - Chatbot](./ss/demo.mp4) & Video Demo  2 -> ![Vid
 
 ## Table of Contents
 
-  * [1. Create Gemini API Key](https://www.google.com/search?q=%231-create-gemini-api-key)
-  * [2. Python & Dependencies Installation](https://www.google.com/search?q=%232-python--dependencies-installation)
-  * [3. Creating the Chatbot Backend Program](https://www.google.com/search?q=%233-creating-the-chatbot-backend-program)
-  * [4. Creating the Chatbot Frontend Program](https://www.google.com/search?q=%234-creating-the-chatbot-frontend-program)
+  * [1. Create Gemini API Key]
+  * [2. Python & Dependencies Installation]
+  * [3. Creating the Chatbot Backend Program]
+  * [4. Creating the Chatbot Frontend Program]
 
 -----
 
