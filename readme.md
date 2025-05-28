@@ -12,9 +12,7 @@ The example below utilizes the Gemini LLM API.
 
 ![Screen Shoot Chatbot](./ss/ss-chatbot.jpg)
 
-Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4)
-
-Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
+Video Demo -> ![Video Demo - Chatbot](./ss/demo.mp4) & Video Demo -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
 -----
 
@@ -48,7 +46,7 @@ pip install Flask Flask-Cors google-generativeai python-dotenv
 
 Below is the Python script for the backend, which processes user queries by integrating the Gemini LLM API and a local Database.
 
-![Code Program](./app.py)
+![Code Program Backend](./app.py)
 
 **How to Run:**
 
@@ -63,6 +61,6 @@ python3 app.py
 
 Below is the script for the web-based frontend program that processes questions and displays AI-generated answers. This frontend can be run on a web server like Apache or Nginx, or simply by opening the HTML file directly in your browser while the backend is running.
 
-![ss](./frontend.html)
+![Code Program Frontend](./frontend.html)
 
 ![ss](./ss/ss-chatbot.jpg)
