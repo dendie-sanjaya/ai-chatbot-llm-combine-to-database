@@ -70,3 +70,8 @@ Below is the script for the web-based frontend program that processes questions 
 ![Code Program Frontend](./frontend.html)
 
 ![ss](./ss/ss-chatbot.jpg)
+
+## Contact
+
+If you have questions, you can contact this email
+Email: dendie.sanjaya@gmail.com
