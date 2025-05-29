@@ -1,4 +1,4 @@
-# Chatbot Combining AI LLM & SQL Database
+# Chatbot Combine AI LLM & SQL Database
 
 Machine Learning (ML) is a branch of artificial intelligence (AI) that studies patterns and makes predictions based on data.
 
@@ -8,9 +8,15 @@ The code example presented here demonstrates a combination of AI LLM and a SQL D
 
 For instance, to inquire about the online status of a device, the data flow will involve querying an internal database to retrieve the device's status.
 
+The Is Architecture Chabot
+
+![Screen Shoot Chatbot](./ss/architecture.png)
+
+
 The example below utilizes the Gemini LLM API.
 
 ![Screen Shoot Chatbot](./ss/ss-chatbot.jpg)
+
 
 Video Demo  1 -> ![Video Demo - Chatbot](./ss/demo.mp4) & Video Demo  2 -> ![Vidoe Demo - Shell](./ss/demo-2.mp4)
 
